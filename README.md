@@ -7,7 +7,7 @@
 I'm a passionate software developer with a love for open-source projects and collaborative development. I specialize in web development, particularly in JavaScript, React, and Node.js.
 
 - 🌱 I’m currently learning advanced TypeScript and GraphQL.
-- 🔭 I’m working on several exciting projects, including a task management app and a personal blog.
+- 🔭 I’m working on several exciting projects, including a task management app.
 - 💬 Ask me about web development, open-source contributions, and best coding practices.
 - 📫 How to reach me: [Email](mailto:chris.anampiu02@gmail.com) | [LinkedIn](https://www.linkedin.com/in/chris-mutwiri-83279b2a9/?trk=opento_sprofile_topcard)
 
